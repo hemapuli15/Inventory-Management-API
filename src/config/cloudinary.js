@@ -1,8 +1,7 @@
-// src/config/cloudinary.js
 import dotenv from "dotenv";
 import { v2 as cloudinary } from "cloudinary";
 
-// ✅ Load .env here so Cloudinary gets correct values
+//  Load .env here 
 dotenv.config();
 
 cloudinary.config({
