@@ -12,13 +12,13 @@ GET /
 
 🧩 Features---
 
-🔐 Authentication & Roles
+🔐 Authentication & Roles:
 Register / Login with JWT
 Role-based access (admin, user)
 Secured protected routes
 
 
-📦 Product Management
+📦 Product Management:
 Add new products
 Update product details
 Soft delete / remove
