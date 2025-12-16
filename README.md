@@ -1,8 +1,9 @@
-#🚀 Inventory Management API
-A fully featured Inventory & Stock Management Backend built with Node.js, Express, MongoDB (Atlas), JWT Authentication, and Cloudinary uploads.
+#  🚀 Inventory Management API
+# A fully featured Inventory & Stock Management Backend built with Node.js, Express, MongoDB (Atlas), JWT Authentication, and Cloudinary uploads.
 This project is designed as a production-ready REST API used for managing products, suppliers, stock transactions, reports, and file uploads.
 
 
+##
 🌐 Live API URL
 👉 https://inventory-management-api-kd6n.onrender.com
 
